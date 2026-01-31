@@ -2,6 +2,8 @@
 # Run and deploy your AI Studio app
 This contains everything you need to run your app locally.
 View your app in AI Studio: https://ai.studio/apps/drive/1FVVRtzT6kyShzLzlUpNqHNvV13XEyucs
+# Kisan Sathi
+Digital Farm Companion is A Voice First AI Assistant for farmers that helps you manage your Crops, Animals, Machinery, Finances, weather alert, government schemes and emotional Wellbeing- entirely through voice, no reading requires. The app acts as a trusted farm companion,guiding farmers step-by-step to make informed decisions and boost productivity. The goal is to reduce farmer stress, increase productivity and improve decision-making using AI and real time data
 
 *Key Features-**
 
